@@ -1,0 +1,3 @@
+.ui-widget.ui-datepicker_availability { font-size: 0.8em; }
+.ui-datepicker_availability td.un { color: red; text-decoration: line-through; }
+.ui-datepicker-trigger { vertical-align: -25%; }
